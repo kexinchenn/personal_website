@@ -68,7 +68,7 @@ user_groups:
 - Visitors
 ---
 
-This is Kexin Chen. I am a second year PhD student studying Cognitive Neuroscience at the Universtity of California, Irvine. I am interested in learning how the brain create efficient representations of the world. Specifically, I focus on how motion and spatial information are represented and how they are retrieved during navigational behaviors. I am a member of the [Cognitive Anteater Robotics Laboratory](http://www.socsci.uci.edu/~jkrichma/CARL/index.html) and am advised by [Prof. Jeff Krichmar](http://www.socsci.uci.edu/~jkrichma/). 
+This is Kexin Chen. I am a third year PhD student studying Cognitive Neuroscience at the Universtity of California, Irvine. I am interested in learning how the brain create efficient representations of the world. Specifically, I focus on how motion and spatial information are represented and how they are retrieved during navigational behaviors. I am a member of the [Cognitive Anteater Robotics Laboratory](http://www.socsci.uci.edu/~jkrichma/CARL/index.html) and am advised by [Prof. Jeff Krichmar](http://www.socsci.uci.edu/~jkrichma/). 
 
 Have a look at some of my [projects](#publications) !
 
